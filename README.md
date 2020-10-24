@@ -1,4 +1,4 @@
-# Momentum
+# Momentum(https://hanseunghoon.github.io/Momentum/)
 
 Vanilla JS로 만든 Chrome App [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)를 나만의 스타일로 직접 구현 (앞으로 기능 추가 예정)
 
