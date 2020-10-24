@@ -19,7 +19,3 @@ Vanilla JS로 만든 Chrome App [Momentum](https://chrome.google.com/webstore/de
 - [x] 일간 사진
 - [x] 동기부여 명언
 - [ ] OOTD 추천
-
-## 참고
-
-[바닐라 JS로 크롬 앱 만들기](https://nomad-academy.teachable.com/p/javascript-basics-for-absolute-beginners-kr)
